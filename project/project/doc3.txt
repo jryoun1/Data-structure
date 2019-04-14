@@ -1,0 +1,1 @@
+Data structures are implemented using the data types, references and operations on them provided by a programming language.

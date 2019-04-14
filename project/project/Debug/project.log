@@ -1,0 +1,35 @@
+﻿  main.cpp
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(43): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(44): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(462): note: 'putch' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(52): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(555): note: 'strlwr' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(78): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(73): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(85): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(102): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(108): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(111): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(112): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(130): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(160): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(161): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(169): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(170): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\yeon\desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\project\main.cpp(137): warning C4172: 지역 변수 또는 임시: temp의 주소를 반환하고 있습니다.
+  project.vcxproj -> C:\Users\Yeon\Desktop\자구 설계과제\설계과제\자료구조 프로젝트 18조\자료구조 프로젝트\project\Debug\project.exe
